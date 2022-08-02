@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React and React Native**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abelrmsimoes&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&hide=pascal)](https://github.com/abelrmsimoes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abelrmsimoes&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord)](https://github.com/abelrmsimoes)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abelrmsimoes&hide_border=true&theme=nord)](https://github.com/abelrmsimoes)
 
