@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=abelrmsimoes&label=Profile%20views&color=0e75b6&style=flat" alt="abelrmsimoes" />
 </p>
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=robotomono&color=83D6A8&size=15&center=true&vCenter=true&lines=I'm+on+my+journey+to+become+a+web+developer!;I+love+coding+and+building+cool+stuff!;Feel+free+to+connect+with+me!"/>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=robotomono&color=83D6A8&size=15&center=true&vCenter=true&lines=I+love+coding+and+building+cool+stuff!;Feel+free+to+connect+with+me!"/>
 </p>
 <h2 align="center">About Me</h2>
 <p align="center">
